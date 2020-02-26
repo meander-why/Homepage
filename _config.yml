@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://alopez.github.io
+url:                   https://meander-why.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,30 +19,30 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Adam Lopez
+title:                 Huanyan Wang
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Adam Lopez at the University of Edinburgh
+  Huanyan Wang's Homepage
 
 # A shorter description for the sidebar.
 tagline:               >
-  University of Edinburgh
+  Peking University
 
 # A list of keywords for your blog.
 keywords:              []
 
 # Used by jekyll-seo-tag.
-logo:                  /assets/img/me.jpg
+logo:                  /assets/img/photo.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Adam Lopez
-  picture:             /assets/img/me.jpg
+  name:                Huanyan Wang
+  picture:             /assets/img/photo.jpg
   social:
-    email:               'alopez@inf.ed.ac.uk'
-    github:              alopez
+    email:               'w_hy@pku.edu.cn'
+    github:              meander-why
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
@@ -69,7 +69,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/sidebar.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
